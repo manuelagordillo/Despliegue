@@ -1,0 +1,2 @@
+FTP son las siglas que se utilizan para indicar File  Transfer Protocol, y estça realacionado
+ con un software que permite la transferencia de archivos.
