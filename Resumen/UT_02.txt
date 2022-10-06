@@ -1,0 +1,2 @@
+Los servidores web estçan formados por hardware y software que utilizan el Protocolo de
+transferencia de Hipertesto (HTTP)
